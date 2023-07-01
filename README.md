@@ -3,7 +3,7 @@
 
 The Active Directory (AD) Toolkit v1 is a comprehensive software suite designed to simplify the administration and management of Active Directory (AD) domains. It offers a variety of tools to streamline common tasks related to user, group, and computer management.
 
-* Im updating the scripts WIP
+_* Im updating the scripts WIP_
 
 Key Features:
 
